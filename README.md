@@ -1,3 +1,3 @@
 # UcGmSim.github
 
-This code-base ("University of Canterbury Ground Motion Simulation")  contains over 100 individual repositories for tools, utilities, and software workflows for all things associated with seismic hazard and risk analysis.  For extraction of raw seismic waveforms and geotechnical data, development of ground-motion databases, and Vs30 maps, all the way through to execution of HPC-based ground-motion simulations and integration into seismic hazard and risk curves and maps.
+This code-base ("University of Canterbury Ground Motion Simulation")  contains over 100 individual repositories for tools, utilities, and software workflows for all things associated with seismic hazard and risk analysis.  From extraction of raw seismic waveforms and geotechnical data, development of ground-motion databases, and Vs30 maps, all the way through to execution of HPC-based ground-motion simulations and integration into seismic hazard and risk curves and maps.
